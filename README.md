@@ -13,7 +13,7 @@ go to connection folder and input your phpmyadmin database password
 
 To access admin portal type this in your URL BAR **\`root**/admin/ \`  where **root** is your root directory
 
-http://localhost/food-order-system/admin/
+http://localhost/online_resturant/admin/
 
  **Admin credentials:** Username: **admin** Password: **1234**
 
